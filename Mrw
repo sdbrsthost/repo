@@ -12,7 +12,47 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.92
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkMusic/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,ADRIA MUSIC
+#EXTINF:-1,ADRIA MUSIC#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png", DMSAT
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png", DUGA TV
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.92.29.10:1935/tvduga/tvduga/chunklist_w407662181.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK MUSIC
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkMusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",ADRIA MUSIC
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png", BALKANIKA
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&urlhttp://185.226.88.3:1036/live/backup/backup/14.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",GLAS DRINE
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=rtmp://glasdrine.cutuk.net:1935/3ghu788/GlasDrine
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",SEHARA MUSIC
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://ip2.xxlservices.com:8081/seharatv/live/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",OTV VALENTINO
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://77.74.231.18:8081/otv_live/OTV/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK FOLK 1
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkFolk1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK FOLK 2
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkFolk2/tracks-v1a1/mono.m3u8
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
 
