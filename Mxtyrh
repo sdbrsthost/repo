@@ -83,3 +83,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://213.11
 #EXTINF:-1,TRT SPORT
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.129.1.242/trtspor/index.m3u8
+#EXTINF:-1,KANAL D 
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://213.115.248.46:9000/TR_-_KANAL_D_HD_PLUS/video.m3u8
