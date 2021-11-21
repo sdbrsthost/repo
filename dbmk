@@ -1,32 +1,32 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Mtv 1
-http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/6/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Sitel
-http://135.125.204.34:8081/tvstanici/1/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Kanal 5
-http://135.125.204.34:8081/tvstanici/2/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/2/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Telma
-http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/3/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Alfa 
-http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",24 Vesti
-http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Alsat M
-http://93.157.62.180/AlsatM/tracks-v1a1/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/AlsatM/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Kanal 8
-http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Nasa TV
-https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Tv Orbis
-http://tvorbis.hugo.mk:1935/live/orbistv/chunklist_w1338852125.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://tvorbis.hugo.mk:1935/live/orbistv/chunklist_w1338852125.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",MDC
-https://giganet.mk/hls/macdoc.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://giganet.mk/hls/macdoc.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Mnet
-https://giganet.mk/hls/mnet.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://giganet.mk/hls/mnet.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Mnet Kids
-https://ares.mnet.mk/hls/mnet-kids.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Mnet Sport
-https://ares.mnet.mk/hls/mnet-sport.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://ares.mnet.mk/hls/mnet-sport.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Tv Koha Tetovo
-https://srv1.iptviliria.com/KohaTV/tracks-v1a1/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://srv1.iptviliria.com/KohaTV/tracks-v1a1/mono.m3u8
