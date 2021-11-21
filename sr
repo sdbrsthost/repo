@@ -1,0 +1,32 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png", Rts1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/9.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Rts2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/10.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Rts3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/11.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Rts Svet
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/14.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Nova S
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/13.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Belle Amie
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/32.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Hram
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/33.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Novi Pazar
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/34.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",B92
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.24.35.229:8080/b92/index.m3u8?token=test
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Prva
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.24.35.229:8080/prva/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Prva Plus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.24.35.229:8080/prvaplus/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Prva World
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.24.35.229:8080/prvaworld/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Pink TV
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.24.35.229:8080/pink/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png", Euronews Srbija
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w1262535589_b6256000.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Kurir 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://d2o6nnfvbbufka.cloudfront.net/app-19518-0855/ngrp:RWxI5IQr_all/chunklist_w1262535589_b6256000.m3u8
