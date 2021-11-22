@@ -8,10 +8,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://cdn1.
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.92.29.10:1935/tvduga/tvduga/chunklist_w407662181.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK MUSIC
-
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkMusic/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",ADRIA MUSIC
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://srv1.adriatelekom.com/AdriaMusicTV/index.m3u8
@@ -34,12 +30,16 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://77.74.
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK FOLK 1
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkFolk1/tracks-v1a1/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.105.201.198/PINKFOLK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK FOLK 2
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK EXTRA
 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/PinkFolk2/tracks-v1a1/mono.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.105.201.198/PINKEXTRA/tracks-v1a1/mono.m3u8
 
 EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",JEKA MUSIC
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
+
+EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK KONCERT
+
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.105.201.198/PINKKONCERT/tracks-v1a1/mono.m3u8
