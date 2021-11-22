@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png", Bn1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/39.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Obn 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/26.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Bn
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/27.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Hayat
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/25.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Hayat Plus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/40.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Tv Alternativa
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/41.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Nova BH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/23.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Face
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/42.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Tv Sarajevo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/43.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Usk BH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/45.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Tk Tv
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/46.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_map_of_Bosnia_and_Herzegovina.svg/1050px-Flag_map_of_Bosnia_and_Herzegovina.svg.png",Rtv BH
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/49.m3u8
