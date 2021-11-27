@@ -36,10 +36,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.10
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.105.201.198/PINKEXTRA/tracks-v1a1/mono.m3u8
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",JEKA MUSIC
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",JEKA MUSIC
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://muzzik-live.morescreens.com/mts-4/playlist.m3u8
 
-EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK KONCERT
+#EXTINF:-1  tvg-logo="https://i.ibb.co/9VRy371/Pics-Art-21-11-13-17-29-07-293.png",PINK KONCERT
 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://109.105.201.198/PINKKONCERT/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,TEST
+https://youtu.be/ZwozSLas8DM
