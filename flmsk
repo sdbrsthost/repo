@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNDcxMDQ2NjA2NF5BMl5BanBnXkFtZTcwMTE3OTc0MQ@@._V1_.jpg",GOLEMATA VODA MK FILM
+https://youtu.be/tovWwFKzKLg
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BODZlOThhNmEtNjdlNC00NmNmLTkzMmItMWJjNWQ0ZGI0ZWE0XkEyXkFqcGdeQXVyMjM5MTg4MjQ@._V1_FMjpg_UX1000_.jpg",VREME BEZ VOJNA MK FILM
+https://youtu.be/_Y46latwAi0
 #EXTINF:-1  tvg-logo="https://www.ilcineocchio.it/cine/wp-content/uploads/2020/07/Kototamopeva.jpg",KO TO TAMO PEVA 
 https://youtu.be/ZwozSLas8DM
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2a3jnhaKHMSpkokhUPSE7p0lTLUrK3yoyMNzGZut6Id2FgUnS&s",VIKEND SA ČALETOM
