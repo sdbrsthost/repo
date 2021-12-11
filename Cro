@@ -1,5 +1,8 @@
 #EXTM3U
 
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",HRT1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/19.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",DOMA TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/66.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",HRT 3 HR
