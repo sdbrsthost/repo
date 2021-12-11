@@ -10,6 +10,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.e
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/14.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Nova S
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/13.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Zadruga live 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/13.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Belle Amie
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/32.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Flag_map_of_Serbia_%28with_Kosovo%29.svg/1200px-Flag_map_of_Serbia_%28with_Kosovo%29.svg.png",Hram
