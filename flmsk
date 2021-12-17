@@ -28,3 +28,543 @@ https://youtu.be/kt3m56kJGIM
 https://youtu.be/bupA-xJj7jI
 #EXTINF:-1 tvg-logo="https://filmonizirani.net/wp-content/uploads/2015/04/sevimli-tehlikeli-poster.jpg",SLATKA I OPASAN
 https://youtu.be/1eu65pexTd8
+
+
+#EXTM3U
+
+#EXTINF:-1,*--- EX YU ---*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFECPv9Au3fKmlL-TUKJifalF6161VwfazDYpiHZP9A_/ts
+#EXTINF:-1,Ex_Yu: Pink 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNG2c_GvzeaDW_8s-YHu84b20RihdHXbyjB-a4m0U9KC/ts
+#EXTINF:-1,Ex_Yu: Pink 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCt1Oip_wSqVmWcyPAB4ajix7zRgiDuDFsaYxITZiLO7/ts
+#EXTINF:-1,Ex_Yu: Pink 3 Info
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLxToXdF0TsZUw-X2rGFQuZKRiD_RFMA4Qm3jZ6PMiZZ/ts
+#EXTINF:-1,Ex_Yu: Pink Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB-uGIbmyN0FAMRDWBNvUbwClseUn55Pw3W39wW0cvW7/ts
+#EXTINF:-1,Ex_Yu: Pink Comedy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNem8-Pb-hyGaWGiiu-nQaHyRshBGzyT4jLK5vjlTV-c/ts
+#EXTINF:-1,Ex_Yu: Pink Crime & Mystery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAJZbx6Y_SdllmT9qrp84gEa4TqzjTuzP6WT_NtrAfhe/ts
+#EXTINF:-1,Ex_Yu: Pink Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFr2WNMLpewfo24-tKDUYCbhstB4CGBexfxjiddvJPyh/ts
+#EXTINF:-1,Ex_Yu: Pink Horror
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO7fOwGr7_Y8rJtK89AmiNHdCrp6wLusarc-b9HzngMn/ts
+#EXTINF:-1,Ex_Yu: Pink Premium
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCJ1_NhW77c4DOb-O3Zspq_N0KKUrI-9eekFMl2bDDf9/ts
+#EXTINF:-1,Ex_Yu: Pink Serije
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIYIADm2gJSx66VrCz_RC6lkjD6xkvjVQsJX7cVwndWo/ts
+#EXTINF:-1,EX-YU Pink Thriller
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF-6hKifWH2fu8spbptmkAlhnVZqF4PIRlT92ZK26c1L/ts
+#EXTINF:-1,Ex_Yu: Pink Western
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNCY7GpEUQqftxYiFIQbHjiyxhbvCbGiFI7oi-lnQnZd/ts
+#EXTINF:-1,Ex_Yu: Pink classic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHzJ52H6KLCXQy6c36_J0sbMfDfl1oCdP-7qQHSsgaZx/ts
+#EXTINF:-1,Ex_Yu: Pink Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK-O_2WVMVic5HCIs8B2jYOY13Cv1TiHxQvyCnmRpz1I/ts
+#EXTINF:-1,Ex_Yu: Pink World
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEWoj7LeC1CC5Lf9kREl-xcltKaSrPIqWJaBy3Ktc_Pg/ts
+#EXTINF:-1,Ex_Yu: Pink Soap
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNtGtQcU39vBC6NyqSiNH6PCXfK1tXDuvtdspuTSJoQ_/ts
+#EXTINF:-1,Ex_Yu: Pink Show
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbICBXGT1A7sJHumKjIgso01pk6YurJ-INJfi4qOSr6C4/ts
+#EXTINF:-1,Ex_Yu: Pink HAHA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMSIV8c6qsTDzfOsyFk-tZ7ZBHmmViD6eG6cK0UhGmWT/ts
+#EXTINF:-1,Ex_Yu: Pink Kuvar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLEoAlF-vALiAuG0GOZO1_e5oJ6usZFnePVrUYDcVO92/ts
+#EXTINF:-1,Ex_Yu: Pink Zabava
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMuC1rbBfewnb6P6E_9eHUSOAcHPwPHUieIYicILIthb/ts
+#EXTINF:-1,Ex_Yu: Pink LOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMiPws0NU7RbFcN6yw3CO8XYhPA3NvdrDW0h1Bh4nfI-/ts
+#EXTINF:-1,Ex_Yu: Pink Folk 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEzcYkK7nA4ofodh6a-W0zU-qgHHEnCABI0Qwjzhvuy-/ts
+#EXTINF:-1,Ex_Yu: Pink Folk 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbONiUwe6UJwaO9mF2ilRZfO75ePBR6lrJcr0hyhQ9NA8/ts
+#EXTINF:-1,Ex_Yu: Pink Pedia
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD40svHMbLnzjtcQU5drq01J7HVJDJ8K2kBXCou6rSjl/ts
+#EXTINF:-1,Ex_Yu: Pink Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD_lLb3l3_QlaLfdCcMTCo4i7a7IgHPhg0gYlIfniAVC/ts
+#EXTINF:-1,Ex_Yu: Pink Romance
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJch7travFXENHDnjzFF7KEXEoWe1jgUVc5GwDxORXoH/ts
+#EXTINF:-1,========== SRBIJA==========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKKKN83N_1R7yOYjNF8FWgVqc_HQ6d4j_Vnp6isYbI2j/ts
+#EXTINF:-1,SRB | RTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPi1hRH3KtS8nQZlkNIF98YhAFADyucR1kGfWM0S3lIL/ts
+#EXTINF:-1,SRB | RTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbENdMPl3vqOAFC1KzBAR2U21lnathvcZjFO3kOVV2l8u/ts
+#EXTINF:-1,SRB | RTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKP1brpWtu3MxN8-sh1EGuQNtFEKZbgJ0PHpZX1auCGA/ts
+#EXTINF:-1,SRB | RTS DRAMA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOGpqzKS7vQqqXWqgpp62_OlmgLrPchsgMB_BP4EqD1D/ts
+#EXTINF:-1,SRB | RTS TREZOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGT3AIugqIDZQ8QQ6YMJI_tYZfM7RDpK5TiJCqu-zNeS/ts
+#EXTINF:-1,SRB | RTS SVET
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI8TXx3sLKFLPnQdZJh_Z11wnBNP-BuHQhk97t5KGXii/ts
+#EXTINF:-1,SRB | RTS ZIVOT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBOkP2jE5F9HmiaeApl9AvFdO5jVbQP1EAOo5Ilqk_Bq/ts
+#EXTINF:-1,SRB | PRVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOqZNwRPSMe2TGcR86bHNn6B9ATImQwSZdC6hixEyzGX/ts
+#EXTINF:-1,SRB | PRVA WORLD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL73W5nXdg3afr2JoruKXXuPfdNbI-FcQidPH3JYsDOK/ts
+#EXTINF:-1,SRB | PRVA PLUS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBszmEthloh-XB219d42FkrNv4U1nPcnZHIxQPTA0O1d/ts
+#EXTINF:-1,SRB | O2 TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFrFOyiek_lG_2UABzbcaOLhpo_41ERYEI8fa5M63y8i/ts
+#EXTINF:-1,SRB | HAPPY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbID6QvFE_ael9_p9p6irC8YK0LgpJncubRQulmJUydGr/ts
+#EXTINF:-1,SRB | Nova S
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAwKR-L4OYnbXLvJo9P06L31qyApUa_ow6M7Szyoq0Tz/ts
+#EXTINF:-1,==== BOSNA & HERCEGOVINA ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE8bg-iNT0BJYH7oKzmT8Llom4y4QwInrjCoMDvuOxK2/ts
+#EXTINF:-1,BiH | BN Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHvTrXjY72WDXQFwIrGVtjo0NsZyF899BKlqv38FCAEh/ts
+#EXTINF:-1,BiH | Face Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM1AeZvWxjRLxFTQ8OZ-gm1qxndenEtf0TsDU_Fct7W4/ts
+#EXTINF:-1,BiH | Hayat TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEjFydfDLqDhmVmqmXwbTkonllS3azEkm_gBgMg3xNpt/ts
+#EXTINF:-1,BiH | Nova BH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLKLBgAxOGOS9LrJEHyIdd5C8I8OxVVubbDEhlQr1SyY/ts
+#EXTINF:-1,BiH | BHT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDZBes18mufSvSCh0zUCQcoEPSvrIw-9Quil7rHHRAl5/ts
+#EXTINF:-1,BiH | FTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGBhopfROUt_nqAZ3lGjDwYbDUoD__m5wKQE0jI0ztIM/ts
+#EXTINF:-1,BiH | OBN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCflHLFp6oY4lDdBshzE11r_TFzc3_oyUcTyYPvulPhW/ts
+#EXTINF:-1,BiH | Hayat Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGLrOkFJRhvq5oc4ripu_qNuZfeSiMPrxDUdS3dUTutz/ts
+#EXTINF:-1,BiH | RTRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN5TlZanSgzo6ThmHFj2zHi6ZUcKN7FwfAhnOMUNkRwQ/ts
+#EXTINF:-1,BiH | ATV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIQXCw4icZ0Kyo8mYBv9NZFGOFej4L8J_i94rF3azMd3/ts
+#EXTINF:-1,BiH | RTV Vojvodina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE8BwzdDAHo6wHZO1q5V92BOHNhxKXC2gz-Q11uf5bRw/ts
+#EXTINF:-1,BiH | TV SLON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC1QeS88QrAEMbJ8yMmpuEOEgLKW14nGLRZsk2LahUML/ts
+#EXTINF:-1,BiH | TV TK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLSRKWW60h4UwEDn_6s-7jWs9a4B8QDLs6EvHhbIC6J-/ts
+#EXTINF:-1,BiH | City tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLeV0bNUawfXUemdej_0md2JivhpVKzWIzGHwBb5FX4w/ts
+#EXTINF:-1,BiH | N1 BIH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNNBz69O7HzZpDm2VI0wmK0yQHS-l2nKYby7-nkEYdki/ts
+#EXTINF:-1,BiH | Al Jazeera
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCbxniEAivN_a6MpysVOkuoMmfNrl6Gi7gR4D6UQL13m/ts
+#EXTINF:-1,========== HRVATSKA==========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGy61udom2oGCnrsHVCW5dDieHT44W7mUF4e-9soRMYo/ts
+#EXTINF:-1,HR | HRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFLRMfQAWn1GCSxQC0ZxBqHG0LCShHXiN4_3fQ1ShzAh/ts
+#EXTINF:-1,HR | HRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCy_qgpctGjZr4MNikxT-ThTDqSaPYYgqzFwApNSz_QE/ts
+#EXTINF:-1,HR | HRT 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAmyNNfVhpU_IKeEuBCdp-RwK3z3dMSJt4BhfXRRsLuJ/ts
+#EXTINF:-1,HR | HRT 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNWlvDWB3MuSCY0neV1SbfqGvFdQ0xo__rkC2_dUzYKQ/ts
+#EXTINF:-1,HR | NOVA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPm-OpmCX5kkglOgp64fIJTl6mh6vJayD_8QMM88gtWC/ts
+#EXTINF:-1,HR | DOMA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGpmvDzVGqspOWgKL8Vwhn5f1YsL7IK85URtri9CprBr/ts
+#EXTINF:-1,HR | RTL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO86jNmTDKb7fFa8oCnqa39TDtTO6tYmDN_qlceN4FFz/ts
+#EXTINF:-1,HR | RTL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbA7qSSZ2yo_sJSNnMWcAknh2A-4oYHsHpPg-_IFu6h5V/ts
+#EXTINF:-1,HR | RTL CRIME
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF2K9PJMgaCt_aFkI98TmR6G9ZKkOvpgFBT_UigoRXB0/ts
+#EXTINF:-1,HR | RTL LIVING
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNTNYG5H5sdwnbP8JbaS9-lOSaCllcEHS7nqBHSlfIqj/ts
+#EXTINF:-1,HR | RTL KOCKICA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO9wmM0zVlFwpIClHnX_FKx1A6gK5xEQ--Dx-Js_fXUU/ts
+#EXTINF:-1,HR | RTL Passion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEwlgBeRjB5ychbvH1F7Qmm4yvZoU2-hVw2ro1gTxY2q/ts
+#EXTINF:-1,HR | LAUDATO TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbExMsYG2FPO0OhqB2gsuHdfUvoDsTCpaLvxRV6ooUPVo/ts
+#EXTINF:-1,HR | NARODNI TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOkIa8l132Ysy6tZnZOFX_3wbj-jmgEZ-rXy9BzpnmOu/ts
+#EXTINF:-1,HR | Banovina TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF2WC83ZELcwfOS5MeBTA5H2j_4c9omtptdX4l5i1wBF/ts
+#EXTINF:-1,HR | Z1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJA4GAe48q3F4_FlrxdfV9_hb1RA52Uw45TeIAee5P0z/ts
+#EXTINF:-1,========== Filmski // EX-YU ==========
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNz-8i1KV8ZkPlA2CWyE0z2GPVkqhAijZFR4Byzj7O4D/ts
+#EXTINF:-1,Ex_Yu: HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNm1a6BADzp2Y4k1XNOY0JKXdqSExMY_Ygm-Bpq1GF4R/ts
+#EXTINF:-1,Ex_Yu: HBO 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDuKvd5LXkEW-czI2-Io72HBCLt4jyEYc6ePqUwMR6qI/ts
+#EXTINF:-1,Ex_Yu: DIVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEX_A7GN0lRHUi08neMR77nuXJKbBdt9nJVdybE3Jv7B/ts
+#EXTINF:-1,Ex_Yu: Fox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHvaEUm0xeWfgolGgdkp2LXEGnIS1xXQEaFowmm2b__m/ts
+#EXTINF:-1,Ex_Yu: Fox Life
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIVQUq4CCbZfowzNP8wFQLLtaisdBfRP21nXDLcZJGR0/ts
+#EXTINF:-1,Ex_Yu: CineStar Premiere 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJuC-8p_6NEJQlPWivYMhZA6xiKd936KGT8hrHDDwCyO/ts
+#EXTINF:-1,Ex_Yu: Cinemax
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJlJyCsSLSAO6qaEVNYJCAJjnivcG8brx-Ao9Koige23/ts
+#EXTINF:-1,Ex_Yu: Cinemax 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFl9z0j6pzJPonb0RFs0RkWCESop30Cz8d4I9uNb881c/ts
+#EXTINF:-1,Ex_Yu: Cinestar TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFttIPl7GCshXvVG76JgaMJKgJ6cYwwFkTk93a0MiUua/ts
+#EXTINF:-1,==== MUZICKI-GLAZBENI KANALI // EX-YU ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLLY31mWDWBVSAXO4hZztaZzopjr8OFVqIhg-k5iGqYD/ts
+#EXTINF:-1,Ex_Yu: CMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOtVvcYe4MAuHwyt00bN4S0L7tkB2FXpQxk8NZPFsZf3/ts
+#EXTINF:-1,Ex_Yu: DM SAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOpE9LHA9xMwjAosg8wOpNvjiGmUPNhE2H7a2kdqBdFj/ts
+#EXTINF:-1,Ex_Yu: GRAND TV Narodna
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPwyu1Rp3gdPvOSDszM8N3YUBfvlDXcqp7PelL_XqPtP/ts
+#EXTINF:-1,Ex_Yu: Grand TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOIK_61fbpTGz9Y_MQIIdj71udvTz50sPQ2RLl1ntGjW/ts
+#EXTINF:-1,Ex_Yu: KCN 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKm6QKFs0LHapJ0eeyMP9sbF7X822K_fjvm6_KJT0jq5/ts
+#EXTINF:-1,Ex_Yu: KCN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKfzh9ogyhIaDOHn_MmAlcGXl62V-6T1zkR6b_5J2VWT/ts
+#EXTINF:-1,Ex_Yu: KCN 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOoXDQuLXEgRv2b9kkNMgDl_8lu1P7ze1qOQXDvEgIZ-/ts
+#EXTINF:-1,Ex_Yu: Jugoton
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAQ1Wf9xZKh2Li6KjbQqJxqcpKGYQso8sAooeg1KgKtt/ts
+#EXTINF:-1,Ex_Yu: Izvorna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFZfRnGgVQgJ8rWBpzEn0HdvTB4tuBEUzLmBhcnWqPcr/ts
+#EXTINF:-1,Ex_Yu: OTV Valentino
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHPCe0OEX7_ZbBRS5JgxH95AuguoRbwFqyCKeNYlUGRh/ts
+#EXTINF:-1,==== DJECIJI KANALI // EX-YU ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHy_6IJ3zPdCQSN35U_JFIF6Cqq1zWmWSH8WkV_Cwf8M/ts
+#EXTINF:-1,Ex_Yu: NICKELODEON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFAZ_oUxzLc_Tfhez8mdWVczTCn_XU8xqlDI7hZ-ATeh/ts
+#EXTINF:-1,Ex_Yu: NICK JUNIOR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCFpT2ysqFL3q2dwi3_sCFLITdVFrotuvdgOrlAjMC7/ts
+#EXTINF:-1,Ex_Yu: HAYATOVCI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPZ6nZh_jQpx3O0uMAVnDJCY87hLP7axv89yxjeBP69-/ts
+#EXTINF:-1,Ex_Yu: BABY TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPx-R5bP7kB1T0j5syJ5Egf-zTK4oFc1xPuQHqGpyHlB/ts
+#EXTINF:-1,EX-YU Pikaboo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK393HCPqzrqR6a9qawA6Wd7DIPAKXRbJC_dQ42-pQrS/ts
+#EXTINF:-1,==== Dokumentarni // EX-YU ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK1nZv14p2gksQvtjlEzw_Pc1jLWabHe4r3T47t62iG5/ts
+#EXTINF:-1,Ex_Yu: Discovery
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF-bDsUChd0YyGpRhX9fCnxQuVL0IOjndOFFyfdIpzOH/ts
+#EXTINF:-1,Ex_Yu: Nat Geo Wild
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKU9N6Sct45CDDWzubx9mKNckqz6OWzuOJZ9FtTA5eVM/ts
+#EXTINF:-1,Ex_Yu: 24 Kitchen
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIBu-d5xeZApdoSwQ4HiaYIsUoXtaR33IETFbT3hgVa4/ts
+#EXTINF:-1,Ex_Yu: Lov i ribolov
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCma7uP1ExN_VguPI_jJqMuNmBM6wtC5TflXss-2mr48/ts
+#EXTINF:-1,Ex_Yu: History h2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBcvNgv26J4xby38eJ7HyXKsK8bhJ9Y4kk_5eOADokft/ts
+#EXTINF:-1,==== SPORTKI KANALI // EX-YU ====
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIHzVp7iYnGfD_jhi04y7TMRtNSGBUAgcK33oS5m29yl/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbF0L8II_J-uLewMD-Be8o2PPaO8poXt8BDK-EZKKkkO_/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBg6fenGF9gTzKf4baGn4wU0YhGacaBvPp0XXyhXOOH9/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOahTy7t6cG4qo0ajyCMlg5pXmCc898XvEJP-2mDmcXk/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 1 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNjnDu7uIYDUDeYGmd8x6qe-jPg7B_x4FA4FEkjkokk9/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 2 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbK0vL4uNYnKQwgEN9dul8ztm6UFsQqeln8DSrSoPS2kN/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 3 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAFVxuvusA93NjsP7CfbeIV_kzMTWm2Ok5PROTsmNuq_/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 4 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbICPDtDzqU4dw4QnGGHepKTwdb6qF0nVmLEjDPzaOuyw/ts
+#EXTINF:-1,Ex_Yu: ARENA SPORT 5 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOE6wC0g-55QmqI5ph-zNjJdAWjdwojLyshG2ZXEMy_d/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 1 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHHpiLyjBWyy-ELpa8wRsJYfOZM0EO2Qc2AMoPl3bufM/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 2 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG0PDFyu3CHWSWS5GNB1Q_vuka56xQD3n1G5GxzktUpG/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 3 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ1azIPjs7JSgYZ3L63Xf3Jd-P9vjQJcoGZgWZw7RC0h/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 4 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbINwlu5n9NRQV7eSBDeLaeTmCIj2PgsfA8SSHCPbHbD-/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 5 HR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIJ5vZW5EtcIMwGqqBeS0i_EJNoFo-EXUmFloDpEBhZW/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 1 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbONUxYy9dSRDS4lOdDb7bRBzj86Ixjt-Gao690O31Jnq/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 2 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOs6933oeTB8cBuf23KnHRKX_-9hBl6xZPas1DQnzgLQ/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 3 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGJX2DmHHvewiBIxPybB9j22F-n3w41yHV7s5t78e5QP/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 4 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHnv7BWuqm7v3mMX6StWiodEcy2dNdD46IvR_uJv1tkO/ts
+#EXTINF:-1,Ex_Yu: SPORT KLUB 5 SRB
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCbiceZqYkWy_xi_Nn0Ch7wy8tqFOD5whvYQxxhoRZuI/ts
+#EXTINF:-1,Ex_Yu: Planet Sport 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMhdh2UJBhRF8M7D8r5DV5fHckqCu3Kcr1gQAbxTX5FW/ts
+#EXTINF:-1,Ex_Yu: Planet Sport 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHQJPef5E3YK47anTuRAVz7lEt0e0-4iMI7XTytRdmOL/ts
+#EXTINF:-1,Ex_Yu: Planet Sport 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOkofZqBG_WrCe8HUiqQefpCJivgt3jZngvczWqf3kHs/ts
+#EXTINF:-1,EX-YU Planet Sport 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFPqCRIQixSuzGcpLYl3W7wmgKN3JMCm3b8nZnaQsWVQ/ts
+#EXTINF:-1,EX-YU Planet Sport 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKu6VAJYksch3Ohh57Ab6PNIvTjLjAIEHqIyMPvlw0WD/ts
+#EXTINF:-1,EX-YU Moja TV Premijer Liga
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOzBGjvV93K7Wd120u0gDcL3rmMpCsqY5dKG4xn88wDl/ts
+#EXTINF:-1,SLO HBO 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEsUDbroCeFm6zOMHeESX03OwqinaUKJ9u1lFzqsU5mw/ts
+#EXTINF:-1,SLO HBO 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJUbrUHb2E-Rpd-rRDjQF8RyzooWQLskmKJ_eml5EuBe/ts
+#EXTINF:-1,MKD MRT 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJfWzeDAJp5FIdUTwGqGRKMRpbNWdYhR6rtHXwxpPAQr/ts
+#EXTINF:-1,MKD MRT 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGvW3KTlW5AZ805LUPw9C5QqPSqv6izgcHrEXxmXpdGK/ts
+#EXTINF:-1,MKD SITEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPOjRW5zXrs_uq6DEH9hDJKWvYuPIMSwSZTWrTkuw3YB/ts
+#EXTINF:-1,MKD SITEL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHFrAODGzCbJ2odRYl1qnUfek1KVj3hYe7y5qzuCWrA5/ts
+#EXTINF:-1,MKD KANAL 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJU8xrzmESPWS-pzfwAJhAftUK6g-Ji4FG2iZVxnSa8e/ts
+#EXTINF:-1,MKD ALFA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDOhlr3QTYdJi-GCGwr9IDgu3jEdnTM2YD5vKP30Yjdz/ts
+#EXTINF:-1,MKD Sutel Tv
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHK4HjJDQgccj2jRW_EyRSlKOkvrzwqz-Blu4TGjjzQU/ts
+#EXTINF:-1,VIP Ex_Yu: Pink Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBmIyJLeqBsZzG2_bo5wvTMovwxZYGqqaRL8KfFMIvpF/ts
+#EXTINF:-1,VIP Ex_Yu: Pink SciFi & Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNRwRvpOg2ZwQ_rl8pSOouxH4YiVruhKJf6tUxfLk3vR/ts
+#EXTINF:-1,VIP Ex_Yu: Pink World Cinema
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKrq8qGpu8OJLcsW060CkZNbQoxvDwKOfBTGe_nejxyv/ts
+#EXTINF:-1,VIP Ex_Yu: Pink BiH
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBfzmzmbJHUK7DLT65yxuO3S2ys-Gek8IaDIMva3moEt/ts
+#EXTINF:-1,VIP Ex_Yu: Pink Style
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFXSry7TgmEKIcqdhkKBBP42yqSgBB1ZbmNjc2uE79h_/ts
+#EXTINF:-1,VIP Ex_Yu: Pink Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNiyvGzMlhZn59V8wRD0FfbdPrkTVdM43HOYJo48q-sG/ts
+#EXTINF:-1,VIP Ex_Yu: Pink Fashion
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCkYI_AnBI2-FsYAaFWxY1tHjLEb3KzYX95vH_086Pdl/ts
+#EXTINF:-1,VIP Ex_Yu: Pink HaHa
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMUFSdbTc2zm20fBNcxGuypLY2xUuw-ZIdwARcueEgWI/ts
+#EXTINF:-1,VIP Ex_Yu:  RTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGP1b67tOpy4fEH7yVo_IExLqMgIQELYSHT3DY272s9K/ts
+#EXTINF:-1,VIP Ex_Yu: RTRS Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJVPe9qHCZYnQCsZv0e4ZyI5rUeILIG6NTNzaZi8__C7/ts
+#EXTINF:-1,VIP Ex_Yu: Prva TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNzeshrOJzkLoynH-AR5QZUnkvMuActdPYQ1QsxYNfTj/ts
+#EXTINF:-1,VIP Ex_Yu: Prva Kick
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAZK5_bvi6ZLSdrk8aAscpk9OvZ2Fr8PP561fDrRUvTf/ts
+#EXTINF:-1,VIP Ex_Yu: Prva Max
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKGvqsY5ET4g6Uqsbi9GQMveLsuFbsLgms-dwFZyrSDQ/ts
+#EXTINF:-1,VIP Ex_Yu: Nova M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHgjQ0XVO6JbQ9Vt0FDADjrDK0AeQOAxOSEqrvhuFA3b/ts
+#EXTINF:-1,VIP Ex_Yu: PickBox TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFTy7i8US4kLY4gYVCFxpljXU4ggtukEclRthl1m32Vw/ts
+#EXTINF:-1,VIP Ex_Yu: SOS Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNf5sEUcJWT2JZ3WxRqEFIzSdTR1jO2NDoq4WarruwQH/ts
+#EXTINF:-1,VIP Ex_Yu: TLC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP0nk77rrhXODhlLV7Jml-eKT-I7vBWY_W2A3GwQQN97/ts
+#EXTINF:-1,VIP Ex_Yu: Studio B
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFJm4jZqowgOyFEEsc5djEe-dduMcrEdLQoF-EIeCmIS/ts
+#EXTINF:-1,VIP Ex_Yu: SciFi
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO_MWM5pF6wurPQwhJimfWPCVOmjiQ-HzMUaM28Gq0Kx/ts
+#EXTINF:-1,VIP Ex_Yu: Duga TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOmJXQm70wZIFrgCuuL5_NSiV81dcAZcihuHukwO14pd/ts
+#EXTINF:-1,VIP Ex_Yu: E!  Enteriament
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC9Y3CQ_7ndCSDZWKvNExagw_BwoNI2PXnWs0D2_MZYR/ts
+#EXTINF:-1,VIP Ex_Yu: Prva Files
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCJW06lMZ0r5ZNiur6qGbRpeo9NA0c4WVgYCHKLVsNBZ/ts
+#EXTINF:-1,VIP Ex_Yu: RTS Kolo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNRA9jXXA1Vcshxj5tLW8I0tg6LiIt7r9BmOqbBRDcMv/ts
+#EXTINF:-1,VIP Ex_Yu: AMC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB_BnDDpLbem_B3tffIvZ3u0APccA4o1uqsYjWkHePUu/ts
+#EXTINF:-1,VIP Ex_Yu: RT Vojvodina 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGp4AnHDo-lUvORTBs066IRd2cCr-bLct2uEeH9I1iy-/ts
+#EXTINF:-1,VIP Ex_Yu: Zadruga 1 Live
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCvvGN_DcmjTa7O5e4q8nBsjnNx67oea8172Ak9pNHfM/ts
+#EXTINF:-1,VIP Ex_Yu: TV Parovi 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEvUmAcare9mAqMEJ46z9EmVhxmyGOLaaZJCwPbR5fl4/ts
+#EXTINF:-1,VIP Ex_Yu: Parovi Live 24/7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMU17vTOApWID4bqnC1k7CwJERkcDosSJdqIpOYuH2OO/ts
+#EXTINF:-1,VIP Ex_Yu: Sitel- Reserve
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbP3MBjqgjmDnXR7DRMp4FFUDUYIBpRNIdXrV2ZorP7Vk/ts
+#EXTINF:-1,VIP Ex_Yu: Telma
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFuo5-q_Dvg_2i947xYS-_H2bvwEwzVVueZMn4rVHGfy/ts
+#EXTINF:-1,VIP Ex_Yu: 24 Vesti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNurAYfithzeMSP1jQQ7Z6s_qB_IEFuq7OW4RL1BeAr2/ts
+#EXTINF:-1,VIP Ex_Yu: Shutel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAaFkZQ8n4JLlKt9CXOpHPba3lWgeuYUoz6Noy8JZA8J/ts
+#EXTINF:-1,VIP Ex_Yu: Nasa TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGXwkUGwO8vXzqLFr4E56C8_v7SIVd_ypcpqHKTN152-/ts
+#EXTINF:-1,VIP Ex_Yu: TV Sonce
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB9NwM_19PjqKWhe_KNiE90VUbHr2BCeDwGr8P6QoE-u/ts
+#EXTINF:-1,VIP Ex_Yu: Dobra  Makedonska
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI-tL9yMp3u4s99AeRchARrZILwCzqMJ4VpXMXSQy9QH/ts
+#EXTINF:-1,VIP Ex_Yu: Kanal 21
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJZCMNS8J8Hgd16NjTYemUGAYAhole-AbyaNHjMWQboc/ts
+#EXTINF:-1,VIP Ex_Yu: TV Kumanovo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOrwJ4k3IGp0PTprXcRCOcuaAJLiUZNHyDWdEPogw0Ap/ts
+#EXTINF:-1,VIP Ex_Yu: Makedonska TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHazSxj6tsqnPOr36QeWkc1JDY9RSM8ZcT6SyUred1pH/ts
+#EXTINF:-1,VIP Ex_Yu: ALSAT M
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJPqTDvgZQEc78KOqsghTn1zG5deDwPGdDX5-033n7ZL/ts
+#EXTINF:-1,VIP Ex_Yu: EDO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFlRC13YJSftT98202rOWgX_9U1dLsWxBVWDnQbyH0ji/ts
+#EXTINF:-1,VIP Ex_Yu: ERA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI6jDR-5qTWn5GCJB8He-DHZ3O5DYcpstaNd_HYrZ5QZ/ts
+#EXTINF:-1,VIP Ex_Yu: MTM Skopska
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPWb4iUNDuT-YCiPc7Unnf4oLPdssNYhOJiXt1uTceVn/ts
+#EXTINF:-1,VIP Ex_Yu: Hugo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNXffBA0ikHKK_7SIvd52LluUFWcdO_bB097FDBVVoZu/ts
+#EXTINF:-1,VIP Ex_Yu: Hugo 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbC42gXN_LOZN89nVm0fMt8ytDW0wLgeZi3G9P-XFCpQX/ts
+#EXTINF:-1,VIP Ex_Yu: USK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGu0zg_FvK3kmzX9hMtGs8AWK4CrcH7LKcEaplv6VFav/ts
+#EXTINF:-1,VIP Ex_Yu: TV Sarajevo
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD49rslZtl7lQK1GcCzqQebD4LhAy2nz5vEZDswUZ1Mp/ts
+#EXTINF:-1,VIP Ex_Yu: TV Palma Plus Jagodina
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ7s6_HXrGc4nDtdFHfzxv4WmcONbAWoD4Gi4_AFikb8/ts
+#EXTINF:-1,VIP Ex_Yu: O Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKO3U-QrGz3BiyOlGmyUvEjQGwrP2HL23VQ94EsOwG6u/ts
+#EXTINF:-1,VIP Ex_Yu: RTV Zenica
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCCQuC_WRw3w69s_85Ekxx5oVtWo4yZYR7ajW3SUIWUW/ts
+#EXTINF:-1,VIP Ex_Yu: Posavina TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAVpDAsqi1VxHm5_Hajd__UYuiQAoMTMdfFrYOH68Ui6/ts
+#EXTINF:-1,VIP Ex_Yu: Novi Pazar
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIxLwB7GgRYh0Po_k6_w67olCwsEDo5muTuusGApcfZH/ts
+#EXTINF:-1,VIP Ex_Yu: Moj Kanal
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLUS4V33cXgrpqMIhZuBDyBDRQEtOnOWqG6VtsTIbd99/ts
+#EXTINF:-1,VIP Ex_Yu: Glas Drine
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMKTwSpT9uH27Z13FhbOShOT6G_yES5ea4GXIql7PcyS/ts
+#EXTINF:-1,VIP Ex_Yu: Federalna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAUehw-TMvHHdeSpk87rpuiVSnd0GjQYfEU7__ONghTV/ts
+#EXTINF:-1,VIP Ex_Yu: HBo Go
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLDVuoAGfHzTchRlpr6d5IYN_8W0igZfBFxsq0VI89vH/ts
+#EXTINF:-1,VIP Ex_Yu: BN Televizija
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbOeFmtlNMDbx9CiHQvuD-KGzN11CIqFU4OA5M-_CWm6h/ts
+#EXTINF:-1,VIP Ex_Yu: Alternativna TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGePMBPoJP8qd5xMdMCKTkoNQzcWDEsiUf0915qHP3Iu/ts
+#EXTINF:-1,VIP Ex_Yu: RTCG Sat
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNEmyfxSxgF2rrUigZ_GTmBWEP5-WGOR_ab_qpmwH_CE/ts
+#EXTINF:-1,VIP Ex_Yu: RTCG 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbN-ZMhdN7ExZin8okPNu95rziJdijjKVZ1L8c1TUD93W/ts
+#EXTINF:-1,VIP Ex_Yu: RTCG 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCDfYs5XWKhB3tI1J02foi8Tsjjl8mYpbgk21F1oZSSx/ts
+#EXTINF:-1,VIP Ex_Yu:: TV Vijesti
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM5apwwWdVVJr9_c9g2QsFj8_QqJGp7Xt60eRg5-TYLY/ts
+#EXTINF:-1,VIP Ex_Yu: HRT international
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKmuw9mK7NFHRg3_SragZ7KZshpY2H8zp9PFk1UDRmbM/ts
+#EXTINF:-1,VIP Ex_Yu: NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCc4XSqWlaDSvMt9gMuL8RvgoUfNZ7uRrbG1w4JzA4Hf/ts
+#EXTINF:-1,VIP Ex_Yu: FOX Crime
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPZ6P3e_-Lw-QtOnSv3NBAuFokicSq-8yvqBcUOmODJ_/ts
+#EXTINF:-1,VIP Ex_Yu: FOX Movies
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJsEY0pLsHebRNjnODoOv8zQAbxnoVKT--vG6hkOX0wF/ts
+#EXTINF:-1,VIP Ex_Yu: Fox Business
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNlygNmoNWJcgmmi1t27OrMrNMjqkMsVehdN9h8ac7Fr/ts
+#EXTINF:-1,VIP Ex_Yu: Trend TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLmiRYdoTklzRvLf3qO9QoSiZrqU24QpCEoUoy-nf2PA/ts
+#EXTINF:-1,VIP Ex_Yu: Slavonska Televizija
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDXRfXWw7Nv2w9FSAVQ4PLrH2hYVCGS-L_SZC83MAfP5/ts
+#EXTINF:-1,VIP Ex_Yu: Kino TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKsSVUhU_rOOkaAUULnQhNpBEa53DeevXJttfrNydOjx/ts
+#EXTINF:-1,VIP Ex_Yu: Cinestar Premiere 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDE7MM1zjrPzaPFOGuHOs-N5iFw-9yY6vx0ov-5S9Rgj/ts
+#EXTINF:-1,VIP Ex_Yu: Cinestar Action
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKzM586iUy1l_OlgeBhgTBueQJKy2i7NSnAAUdBRlmlZ/ts
+#EXTINF:-1,VIP Ex_Yu: Cinestar Fantasy
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFYIrt5NJimA-CxtQowYjI_Ykn7GfgrVck7a9BS_LNu5/ts
+#EXTINF:-1,VIP Ex_Yu:  M1 Film
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLabUX3YJQab_RMflKOBw60W-CwnI02P9Xmq3WJRXu28/ts
+#EXTINF:-1,VIP Ex_Yu: M1 Gold
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO066DDx5zlMxdoJPg4GamcOVoevbLFUkh7_0M_26_CN/ts
+#EXTINF:-1,VIP Ex_Yu: AXN Spin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD-v75PcpvcQPMtCnJAVDp0I5aVxWrRJctcQUeqiR-Xy/ts
+#EXTINF:-1,VIP Ex_Yu: TV 1000
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKH26BPesjtJJh4aJiLQnODM_N6_SMDPzdPBEZ8jJefn/ts
+#EXTINF:-1,VIP Ex_Yu: AXN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFnyIDlM9306KSAx1YDIwmGClO197Nc3OyLNRIZLMIOz/ts
+#EXTINF:-1,VIP Ex_Yu: AXN Spin
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ0oD5GiEKZUuRRd6rNEs6DGZYJ5rs6l8p0hPd90gnkW/ts
+#EXTINF:-1,VIP Ex_Yu: Klasik TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPZ73YDbSkmoBe5zcOIDU0ZMZQlgM9r6oH_PO-uIdOtc/ts
+#EXTINF:-1,VIP Ex_Yu: Filmbox Extra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFjPrp1tDJ1_imPVuLrBsbbQvDOeB4wKhql_4U6PMK2z/ts
+#EXTINF:-1,VIP Ex_Yu: Filmbox Plus
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbO2CYPmt3LzGn78NiNRtBJXSzm1rU-uWbjkpXF97uxhu/ts
+#EXTINF:-1,VIP Ex_Yu: Cineplex
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbBE49xgLPGDjgdDLQ6jS-bmpBwaMnBwz9Zn0jUpNmHs9/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAqx7xWn7FZSdGSea6wtS-c0sgSPrnKw6x0TzqijcwKE/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAPe5OvXEhjxd1L74zBxeGD2nxbtzIuLJIYJjlJuc3b8/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJKMFlFVuDbxtHWnnTOSsXKKDUxtZuVmi4oGSM6Hnd_6/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbG9TuRNT-N_saJ3KJyCD605ailTkg-w3SW5fTHTiD4SZ/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD5vPTDGqIrnp3cRjtLiWQRXp0qTuGgEfYOrExju7hL5/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIpX1eMqmAmMPElkBejB2RctBduTZ_6vTRqxO2mtysU4/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbPTYcUN32mVvhBXdB4JVIdbEGtbsK_spSJwKC5i-p8DG/ts
+#EXTINF:-1,VIP Ex_Yu: Max Select 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMaCQnDEdahcNNqP9atXKTJZq5vux7_dGk3JSwVGKsQu/ts
+#EXTINF:-1,VIP Ex_Yu: National Geographic
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD8XXGPHhb6zIresYzyFMOmLJHaHMnSKIaQtsvNHx0W1/ts
+#EXTINF:-1,VIP Ex_Yu: ID Xtra
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAW8omLVR7p2TFv2ABREU8tBjTuM4c2iXcSuDLsXyIzy/ts
+#EXTINF:-1,VIP Ex_Yu: Crime & Investigation
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbIdJzI6zphQibSWv0WRl7nILtme0pb7CBxKWY3E7KaAV/ts
+#EXTINF:-1,VIP Ex_Yu: CBS Reality
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD0hgEvGW9x0WFaC3xrLvANntruPlgAZwx6OxtZtDLl0/ts
+#EXTINF:-1,VIP Ex_Yu: DocuBox
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFZ3bA4MvSHHBwW9fSdr7A7tggottzdg_pALD572Jx0a/ts
+#EXTINF:-1,VIP Ex_Yu: Discovery Science
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNb_nXsOeQVHC8Cp_1Z9DTkVYnuIxhfXl3PLi_IJM4LZ/ts
+#EXTINF:-1,VIP Ex_Yu: Animal Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCUFWbeSBgKVGz7m3AzFidm-TxEPoMM4ubv-HHyKyr0-/ts
+#EXTINF:-1,VIP Ex_Yu: H2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbM6sMFqYqClKBgwLgttzfdyQp2Ny9A4YG0hlXG4ucwwJ/ts
+#EXTINF:-1,VIP Ex_Yu: Viasat Explore
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLH8CPvdfN3OQyC1z-Q2oC18M2nzZOceillOpzB7J3Kx/ts
+#EXTINF:-1,VIP Ex_Yu: Viasat History
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbB3Wf5us3FXwqkETLUXqK-00Mud7nJCdfCGw04FeajRL/ts
+#EXTINF:-1,VIP Ex_Yu: Viasat Nature
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEVHwF0DVIwpln77qdgqAfkDMmLqmDDeuzWUPZfe3ppv/ts
+#EXTINF:-1,VIP Ex_Yu: BBC Earth
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbE4u2cdFS17Kg5sQ4aLB_dzLBOuNJyksUBH8UPIH5Bjg/ts
+#EXTINF:-1,VIP Ex_Yu: Da Vinci Learning
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFYpOyfPm5rdBqDd7Uh7atA_iao5BnPPzdQkr9S_8wEp/ts
+#EXTINF:-1,VIP Ex_Yu: Travel Channel
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbEwyXSZKS2sqnHhPx7ywkUz8BuSlL34ookGbTrDqzJdq/ts
+#EXTINF:-1,VIP Ex_Yu:: Play TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNJRsJ7y5gLfZyCQEl2K7LA-hrOS2HFosQWW3OBO5jMw/ts
+#EXTINF:-1,VIP Ex_Yu:: Kafanska TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbALx6plAa9zzUckqPkLgGz_YGThX4xmo7dVSqOXZ48G-/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: Pink Koncert
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGY14-excA_Bv4hch2FDKyOz9FUUqf4D9Sj8BDPU0aeM/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: IDJ TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD_n1bRdBcwuZx92RSBLNirjKqAs7Na62TgVlK8zjXVT/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: TOP Sound
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMczTaPni-qAKTc3V0j9yzgq1jgwk2h6z5XOgS-RtYZ-/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: KCN 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbI2bMbaKjbxMpXHZ7gSFoB-YyczAAW8lNMv1x21kOdso/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: Sevdah TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNFdA15scu0BVNmidf8LP4or7T5bUYIjRJ2s0iZ3uzmG/ts
+#EXTINF:-1,VIP Ex_Yu:: Hayat Folk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAY1gYMNYy9oQwMNOTYzBMHQH5m6sFuCmgRf_xfpt4dQ/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: Sandzak TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbLwe_ZLciz_I5xuu-VOUKX-vHKCyZw3ZsGgPbHQJTybA/ts
+#EXTINF:-1,VIP Ex_Yu: TV Sehara
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbHLKMuvIx5rb-YuFDV2qUc9gwKbYhsFNHgd8ovHnhbzq/ts
+#EXTINF:-1,VIP Ex_Yu:: RO: Taraf
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAtThSLsvGoGdY_LMWjiEcjfN5hTdQ-_6P10SnC5ut52/ts
+#EXTINF:-1,Ex_Yu: YU Planet
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbGCnalBRUmPMW2qOIG_9VG3nAJKRB4-FO5yq2BF4FyJA/ts
+#EXTINF:-1,VIP Ex_Yu: RTV Herceg Bosne
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbCQCE7WekGulnzb414_w50LHntkU-3my8MLVjGNGXvhk/ts
+#EXTINF:-1,VIP Ex_Yu: SKY Folk
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbJ5Gd0NcVOD_hiAomrf2TUANJVvQcbphke5NTobA7KZF/ts
+#EXTINF:-1,Ex_Yu: Pink Hits 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbARMlNoCwwR8ILk5M3YEAIrq4X0Vxcvjh7FicTb5mQ7W/ts
+#EXTINF:-1,Ex_Yu: Pink Hits 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKbzkXCDsZBqJ2pvfXMUwj7tN2NN3UU4f7qoIb1bap7z/ts
+#EXTINF:-1,Ex_Yu: Pink Music 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDnEBkfl5XRwVCkzzhjNpLRn4Xp0ASz6eKlGIcvh44vX/ts
+#EXTINF:-1,Ex_Yu: Pink Music 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbAeeCLyP9ADoCNjdIgb4ElyAorsDzkxBU2sawjlNy7Nq/ts
+#EXTINF:-1,Ex_Yu: BN MUSIC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbDM4-9Hd-G17ReRO-HTb_AD7aVxc82YSTexaWq04nk16/ts
+#EXTINF:-1,Ex_Yu: MTV Igman
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFhBIEh49V8XEWs99JDDNo6cqqXFWFz4oDrfWNEg1zwm/ts
+#EXTINF:-1,VIP Ex_Yu: Balkanika (MUSIC)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMtat7rNTbrgnwBRx20prXn0DKNBBh0vvcrGl9C1519a/ts
+#EXTINF:-1,VIP Ex_Yu:: VIP Ex_Yu: Hayat Music
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV&url=http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbL1M0S7RpbkMCUu3TIo6O1o9AAZPceUJSUjMRVo-PaYn/ts
