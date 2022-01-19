@@ -12,6 +12,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.12
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",24 Vesti
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.125.204.34:8081/tvstanici/5/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Tv Vis
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://vsd131.mycdn.me/hls/833187088997.m3u8/sig/Yy6v11la8Q8/expires/1642629870312/srcIp/37.182.140.57/clientType/0/srcAg/CHROME_ANDROID/mid/1558398049893/833187088997_high/index.m3u8?p
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Alsat M
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/AlsatM/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Kanal 8
