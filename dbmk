@@ -16,6 +16,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://135.12
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://zdravkin.hugo.mk:1935/live/zdravkin/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Alsat M
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/AlsatM/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",TV Plus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/108.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Kanal 8
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://kanal8.hugo.mk:1935/live/kanal8/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Flag_map_of_North_Macedonia.svg/2560px-Flag_map_of_North_Macedonia.svg.png",Nasa TV
