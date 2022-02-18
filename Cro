@@ -1,30 +1,9 @@
 #EXTM3U
-
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",HRT1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/19.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",DOMA TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/66.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",HRT 3 HR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/76.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",HRT 4 HR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/72.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",RTL HD HR
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",RTL 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/68.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",N1 HR
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",TREND KARLOVAC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://185.62.75.22:1935/trend/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",SLAVONSKA TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",NOVA HR 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/30.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",RTL ADRIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/22.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",VTV 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/82.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Flag_map_of_Croatia.svg/1200px-Flag_map_of_Croatia.svg.png",STV TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://srv1.exyu.cc:8080/live/G0toeWMhOL/qvrPlbCkap/87.m3u8
-66
