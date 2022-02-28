@@ -31,39 +31,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1401/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",МАТЧ! ФУТБОЛ 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://185-198-56-58.livesports24.online/football3ua.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",МАТЧ! ФУТБОЛ 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://95-213-224-174.livesports24.online/mfootball2rus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",МАТЧ! ФУТБОЛ 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://95-213-172-220.livesports24.online/rumatchf3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png" tvg-logo="http://127.0.0.1/" group-title="Спорт", Спорт 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv.prosto.tv:7000/ch113/video.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png" tvg-logo="http://127.0.0.1/" group-title="Спорт", Sport 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv.prosto.tv:7000/ch107/video.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png" tvg-logo="http://127.0.0.1/" group-title="Спорт", Sport 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv.prosto.tv:7000/ch115/video.m3u8
-
+#
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png", Formula 1 HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 
