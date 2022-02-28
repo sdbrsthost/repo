@@ -31,58 +31,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1401/index.m3u8
  
-#
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png", Formula 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1402/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SS SPORT  ALB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://stream.bestvideostreaming.is/8734/index.m3u8
- EXTINF:-1 tvg-logo="https://i.imgur.com/UEvEaOK.png" group-title="Sports", Super Sports 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qE3DDKX.png" group-title="Sports", Super Sports 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPnZ0d5.png" group-title="Sports", Super Sports 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/S6eGs4t.png" group-title="Sports", Super Sports 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vowBrPg.png" group-title="Sports", Super Sports 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N8CJxDY.png" group-title="Sports", Super Sports 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1gyHXhe.png" group-title="Sports", Super Sports 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/Supersport7/index.m3u8"
- 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TRING SPORT 1 ALB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/TringSport1HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TRING SPORT 2 ALB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/TringSport2HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SKY SPORT ITA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/stream06/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",K SPORT 1 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/KSport1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",K SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/KSport3/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",K SPORT 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/KSport3/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",K SPORT 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/KSport4/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",LA LIGA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.152.174.144:4000/play/beinlaliga/index.m3u8?per
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SKY SPORT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://77.247.109.101/hls/A1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",S SPORT TUR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6825/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",BT SPORT 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.152.174.144:4000/play/btsport1/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",BT SPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.152.174.144:4000/play/btsport2/index.m3u8
