@@ -13,13 +13,11 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a005/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport BiH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://213.91.124.177:8080/4/index.m3u8?token=test
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a006/index.m3u8
 
-
-
-EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",DAZN 1 GERM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv3.kbc.al:25461/live/Nexhmedinibishi/ZBdmV9k2wo/100.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a007/index.m3u8
 
 EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",DAZN 2 GERM
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv3.kbc.al:25461/live/Nexhmedinibishi/ZBdmV9k2wo/101.m3u8
