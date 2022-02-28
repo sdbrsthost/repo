@@ -8,7 +8,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://84.22.33.214/ArenaSport2/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://srv1.exyu.cc/live/G0toeWMhOL/qvrPlbCkap/178.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 4
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://93.157.62.180/ArenaSport4/tracks-v1a1/playlist.m3u8
