@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CVm2b2X/cat-vod.png",Karaula
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV-FILM&url=https//srv1.exyu.cc:443/movie/F9BgKYVdMC/PLi73dvso6/5572.mp4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV-FILM&url=https//srv1.exyu.cc:443/movie/F9BgKYVdMC/PLi73dvso6/5572.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CVm2b2X/cat-vod.png",Varljivo leto '68
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=BFTV-FILM&url=https//srv1.exyu.cc:443/movie/F9BgKYVdMC/PLi73dvso6/5928.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CVm2b2X/cat-vod.png",Dara iz Jasenovca
