@@ -44,7 +44,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.15
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.154.182.197:8000/play/a01x/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",RMC 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.154.182.197:8000/play/a01y/index.m3u8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.154.182.197:8000/play/a020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",RMC 5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://195.154.182.197:8000/play/a01z/index.m3u8
