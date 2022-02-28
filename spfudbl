@@ -16,13 +16,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 5
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a006/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 6
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ArenaSport 6
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a007/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SportKlub 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SportKlub 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a00e/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Premier
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Premier
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1403/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 1
