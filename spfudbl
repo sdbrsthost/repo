@@ -22,14 +22,14 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.
 EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",SportKlub 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://46.29.169.15:4001/play/a00e/index.m3u8
 
-EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png", EUROSPORT 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://iptv3.kbc.al:25461/live/Nexhmedinibishi/ZBdmV9k2wo/99.m3u8
+EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Premier
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1403/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ELEVEN SPORTS 1 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID14105/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",ELEVEN SPORTS 2 HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",Match Football 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=http://82.194.1.2:8000/play/E36_11823R_SID1401/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJHrzxD/Pics-Art-21-11-13-16-26-52-076.png",TNT SPORTS 1
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&name=BFTV&url=https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
